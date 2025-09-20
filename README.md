@@ -85,7 +85,7 @@ The analysis presented in this dashboard is powered by the following publicly av
 
 ## 📁 Files
 
-- `COVID-19_Analysis_Dashboard.pbix` - Power BI project file
+- `COVID-19_Analysis_Dashboard.pbit` - Power BI project file
 - `README.md` - This documentation file
 
 ## 🔮 Insights
