@@ -11,20 +11,26 @@ This interactive dashboard provides insights into COVID-19 statistics globally, 
 - Testing and vaccination coverage
 - Regional comparisons and trends
 
+## 🗃️ Data Source
+
+The analysis presented in this dashboard is powered by the following publicly available dataset:
+- **Primary Dataset:** [Our World in Data - COVID-19 (Latest Compact)](https://catalog.ourworldindata.org/garden/covid/latest/compact/compact.csv)
+
+
 ## 🖼️ Dashboard Preview
 
-![COVID-19 Power BI Dashboard Analysis](https://github.com/your-username/your-repo-name/raw/main/images/Screenshot%202025-09-20%20173504.png)
-*(Replace the URL above with the one you copied from your repository)*
+![COVID-19 Power BI Dashboard Analysis](Image.png)
+
 ## 📈 Key Metrics Analyzed
 
 ### Death Statistics
 - **Sum of total_deaths** across regions including:
-  - Atlantic Ocean regions
+  - Asia
   - Africa
+  - North America
+  - Europe
+  - Oceania
   - South America
-  - Mongolia
-  - Tanzania
-  - Thailand
 
 ### Mortality Rates
 - **Sum of new_deaths_per_million** by country featuring:
@@ -39,7 +45,7 @@ This interactive dashboard provides insights into COVID-19 statistics globally, 
   - Monaco, Belarus, Germany
   - Bulgaria, Ukraine, Austria
   - Russia, Hungary, Romania
-  - Czechia, Poland
+  - Czechia, Poland and others
 
 ### Case Statistics
 - **Sum of total_cases** by country with percentage distributions
@@ -51,7 +57,7 @@ This interactive dashboard provides insights into COVID-19 statistics globally, 
 - Coverage across European nations including:
   - France, Germany, United Kingdom
   - Italy, Russia, Spain
-  - Netherlands, Poland, Ukraine
+  - Netherlands, Poland, Ukraine and more
 
 ## 🌍 Regional Focus
 
@@ -61,12 +67,11 @@ This interactive dashboard provides insights into COVID-19 statistics globally, 
   - Russia, Spain, Netherlands, Poland
   - Ukraine, Austria, Denmark, Slovakia
   - Czechia, Belgium, Portugal, Ireland
-  - Greece, Sweden
+  - Greece, Sweden and others
 
 ## 🛠️ Technical Implementation
 
-**Tool:** Microsoft Power BI  
-**Data Sources:** COVID-19 datasets (likely from WHO, Johns Hopkins, or similar sources)  
+**Tool:** Microsoft Power BI   
 **Visualizations:** Various charts, maps, and KPIs showing comparative analysis
 
 ## 📋 Features
@@ -82,7 +87,6 @@ This interactive dashboard provides insights into COVID-19 statistics globally, 
 
 - `COVID-19_Analysis_Dashboard.pbix` - Power BI project file
 - `README.md` - This documentation file
-- Data source files (if applicable)
 
 ## 🔮 Insights
 
